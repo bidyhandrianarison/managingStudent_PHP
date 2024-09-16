@@ -1,0 +1,32 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+.form-container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #0b0b0C;
+}
+form{
+    background: #f2f8fc;
+    padding: 30px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+input{
+    padding: 2px;
+    outline: none;
+}
+input[type=submit]{
+    width: max-content;
+}
+form div{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+} */

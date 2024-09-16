@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+thead{
+    text-align: center;
+    font-weight: bold;
+}
+table td{
+    padding: 2px;
+}
+

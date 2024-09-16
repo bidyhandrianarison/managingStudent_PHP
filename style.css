@@ -1,0 +1,27 @@
+/* .name{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.name div{
+    display: flex;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+}
+form{
+    width: 50%;
+}
+.form-container{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+input{
+    width: 100%;
+} */
+ .action{
+    display: flex;
+    gap: 5px;
+ }
